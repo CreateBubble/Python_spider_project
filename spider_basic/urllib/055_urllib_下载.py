@@ -19,4 +19,4 @@ import urllib.request
 # 下载视频
 url_video = 'https://mediago-static.cdn.bcebos.com/haokan/bundle.js?v=1.0.2'
 
-urllib.request.urlretrieve(url_video, filename='../tanhua.mp4')
+urllib.request.urlretrieve(url_video, filename='../../tanhua.mp4')
